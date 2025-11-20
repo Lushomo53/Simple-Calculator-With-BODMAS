@@ -25,7 +25,7 @@ This project was developed using **CLion** and demonstrates basic tokenization, 
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Lushomo53/Simple-Calculator-With-BODMAS.git
    ```
 2. **Open in CLion**:
 
